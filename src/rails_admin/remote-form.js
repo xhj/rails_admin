@@ -1,4 +1,4 @@
-import Rails from "@rails/ujs";
+import * as Rails from "@rails/ujs";
 import jQuery from "jquery";
 import "jquery-ui/ui/widget.js";
 import * as bootstrap from "bootstrap";
